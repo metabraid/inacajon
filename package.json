@@ -1,0 +1,23 @@
+{
+  "name": "inacajon",
+  "version": "1.0.0",
+  "description": "generates solution building block resource files from csv export of lucidchart diagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metabraid/inacajon.git"
+  },
+  "keywords": [
+    "inversion-of-control",
+    "architecture-as-code"
+  ],
+  "author": "emmanuel lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metabraid/inacajon/issues"
+  },
+  "homepage": "https://github.com/metabraid/inacajon#readme"
+}
